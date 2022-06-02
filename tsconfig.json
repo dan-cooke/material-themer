@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"outDir": "build",
+		"emitDeclarationOnly": true,
+		"declaration": true,
+		"skipDefaultLibCheck": true,
+		"skipLibCheck": true,
+		"target": "ES2021",
+		"moduleResolution": "node"
+
+	},
+	"include": ["src"],
+	"exclude": ["node_modules"]
+}
